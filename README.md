@@ -1,6 +1,6 @@
 ## Summary
 
-Full-Stack Developer with 2 years of experience, specializing in backend .NET development, passionate about architecture, cloud technologies, and AI integration, and experienced in leading an international team.
+Full-Stack Developer, specializing in backend .NET development, passionate about architecture, cloud technologies, and AI integration, and experienced in leading an international team.
 
 ## Tech stack
 
