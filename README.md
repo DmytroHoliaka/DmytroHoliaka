@@ -4,13 +4,13 @@ I am Dmytro, a Full-Stack Developer with 2 years of experience, specializing in 
 
 ## Tech Stack
 
-**Backend:** C#, ASP.NET Core, Entity Framework Core, MediatR, xUnit, RabbitMQ, MS SQL Server, MongoDB, AI Search
+- C#, ASP.NET Core, Entity Framework Core, MediatR, xUnit, RabbitMQ, MS SQL Server, MongoDB, AI Search
 
-**Cloud & DevOps:** AWS (Lambda, API Gateway, DynamoDB, S3, SQS, Cognito), Azure, Docker, Kubernetes, Git
+- AWS (Lambda, API Gateway, DynamoDB, S3, SQS, Cognito), Azure, Docker, Kubernetes, Git
 
-**Architecture:** Modular Monolith, Microservices, DDD, Clean Architecture, CQRS, Design Patterns
+- Modular Monolith, Microservices, DDD, Clean Architecture, CQRS, Design Patterns
 
-**Frontend:** Angular, TypeScript, JavaScript, CSS, HTML
+- Angular, TypeScript, JavaScript, CSS, HTML
 
 ## Connect With Me
 
