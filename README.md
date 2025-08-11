@@ -2,7 +2,7 @@
 
 Full-Stack Developer with 2 years of experience, specializing in backend .NET development, passionate about architecture, cloud technologies, and AI integration, and experienced in leading an international team.
 
-## Tech Stack
+## Tech stack
 
 - C#, ASP.NET Core, Entity Framework Core, MediatR, xUnit, RabbitMQ, MS SQL Server, MongoDB, AI Search
 
@@ -12,7 +12,7 @@ Full-Stack Developer with 2 years of experience, specializing in backend .NET de
 
 - Angular, TypeScript, JavaScript, CSS, HTML
 
-## Connect With Me
+## Connect with me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:holdim.pro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytroholiaka/)
+[![Email](https://img.shields.io/badge/Email-holdim.pro@gmail.com-D14836?style=flat&logoColor=white)](mailto:holdim.pro@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DmytroHoliaka-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytroholiaka/)
